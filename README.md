@@ -34,7 +34,3 @@ and Aerodynamics) Lab, Georgia Institute of Technology**.
 > Method – CST.* AIAA-2007-0062.
 > [arc.aiaa.org](https://arc.aiaa.org/doi/10.2514/6.2007-62)
 ```
-
-Commit message:
-```
-Finalize main README with full CEREAL lab name
