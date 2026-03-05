@@ -3,7 +3,7 @@
 Neural network surrogate models for predicting airfoil aerodynamic 
 coefficients (Cl, Cd, Cm) trained on the NASA PALMO OVERFLOW CFD database.
 
-Developed at the **CEREAL Lab, Georgia Institute of Technology**.
+Developed at the **CEREAL: Computational and Experimental Rotorcraft Engineering and Aerodynamics Lab, Georgia Institute of Technology**.
 
 ## Branches
 
