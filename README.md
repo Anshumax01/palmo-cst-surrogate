@@ -9,7 +9,7 @@ Neural network surrogate models for airfoil aerodynamic performance
 |--------|-------------|--------|
 | `baseline-surrogate` | NN with NACA digit inputs | ✅ Complete |
 | `cst-surrogate` | NN with CST geometry params | ✅ Complete |
-| `neuron-optimization` | Architecture search | 🔜 Summer 2025 |
+| `neuron-optimization` | Architecture search | 🔜 Summer 2026 |
 
 ## Background
 - NASA/TM-20240014546 — PALMO database (Cornelius 2024)
