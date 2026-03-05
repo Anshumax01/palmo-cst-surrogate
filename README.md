@@ -11,7 +11,7 @@ Developed at the **CEREAL: Computational and Experimental Rotorcraft Engineering
 |--------|-------------|--------|
 | [`baseline-surrogate`](../../tree/baseline-surrogate) | MLP with NACA 4-digit inputs (5 inputs) | ✅ Complete |
 | [`cst-surrogate`](../../tree/cst-surrogate) | MLP with CST geometry parametrization (17 inputs) | ✅ Complete |
-| [`neuron-optimization`](../../tree/neuron-optimization) | Architecture search | 🔜 Summer 2025 |
+| [`neuron-optimization`](../../tree/neuron-optimization) | Architecture search | 🔜 Summer 2026 |
 
 ## References
 
