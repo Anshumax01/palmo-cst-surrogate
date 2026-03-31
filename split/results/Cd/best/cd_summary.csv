@@ -1,0 +1,2 @@
+output,best_hidden,depth,width,N_CST,lr,batch,R2,MAE,MSE,RMSE
+Cd,"(400,400,400,400)",4,400,7,0.001,512,0.998648,0.003945,2.674e-05,0.005171
