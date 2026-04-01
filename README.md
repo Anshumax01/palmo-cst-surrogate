@@ -21,18 +21,10 @@ and Aerodynamics) Lab, Georgia Institute of Technology**.
 Here's the updated Future Work section — replace just that section with this:
 markdown## Future Work
 
-1. **Hyperparameter Tuning** — Find the minimum number of CST parameters needed to 
-achieve optimal surrogate performance, balancing model complexity against diminishing 
-returns in accuracy
-
-2. **Architecture Search** — Determine whether the current neuron configuration is 
-optimal or whether an entirely different machine learning architecture is needed to 
-improve performance
-
-3. **Airfoil Design** — Given target aerodynamic objectives (e.g. minimize drag, 
+1. **Airfoil Design** — Given target aerodynamic objectives (e.g. minimize drag, 
 maximize lift), use the surrogate model to output the optimal airfoil shape and geometry
 
-4. **Rotor Design** — Extend the optimized airfoil design into a full rotor 
+2. **Rotor Design** — Extend the optimized airfoil design into a full rotor 
 configuration by extruding the airfoil geometry into a complete rotor blade
 ```
 
