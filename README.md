@@ -12,7 +12,7 @@ and Aerodynamics) Lab, Georgia Institute of Technology**.
 |--------|-------------|--------|
 | [`baseline-surrogate`](../../tree/baseline-surrogate) | MLP with NACA 4-digit inputs (5 inputs) | ✅ Complete |
 | [`cst-surrogate`](../../tree/cst-surrogate) | MLP with CST geometry parametrization (17 inputs) | ✅ Complete |
-| [`architecture-search`](../../tree/architecture-search) | Explore alternative architectures | 🔜 Spring/Summer 2026 |
+| [`architecture-search`](../../tree/architecture-search) | Explore alternative architectures | ✅ Complete |
 | [`airfoil-design`](../../tree/airfoil-design) | Airfoil design using surrogate model | 🔜 Spring/Summer 2026 |
 | [`rotor-design`](../../tree/rotor-design) | Rotor design using surrogate model | 🔜 Spring/Summer 2026 |
 
