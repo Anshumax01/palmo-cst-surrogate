@@ -13,20 +13,8 @@ and Aerodynamics) Lab, Georgia Institute of Technology**.
 | [`baseline-surrogate`](../../tree/baseline-surrogate) | MLP with NACA 4-digit inputs (5 inputs) | ✅ Complete |
 | [`cst-surrogate`](../../tree/cst-surrogate) | MLP with CST geometry parametrization (17 inputs) | ✅ Complete |
 | [`architecture-search`](../../tree/architecture-search) | Explore alternative architectures | ✅ Complete |
-| [`airfoil-design`](../../tree/airfoil-design) | Airfoil design using surrogate model | 🔜 Spring/Summer 2026 |
-| [`rotor-design`](../../tree/rotor-design) | Rotor design using surrogate model | 🔜 Spring/Summer 2026 |
+| [`airfoil-design`](../../tree/airfoil-design) | Airfoil design using surrogate model | ✅ Complete |
 
-## Future Work
-
-Here's the updated Future Work section — replace just that section with this:
-markdown## Future Work
-
-1. **Airfoil Design** — Given target aerodynamic objectives (e.g. minimize drag, 
-maximize lift), use the surrogate model to output the optimal airfoil shape and geometry
-
-2. **Rotor Design** — Extend the optimized airfoil design into a full rotor 
-configuration by extruding the airfoil geometry into a complete rotor blade
-```
 
 ## References
 
